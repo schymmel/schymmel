@@ -1,35 +1,48 @@
-# **Hello, I'm Hymmel\! 👋**
+# **Hello, I'm Hymmel! 👋**
 
-I'm a 19-year-old Software Engineer who is passionate about solving problems and implementing elegant solutions in code. ✨
+I’m a **19-year-old Software Engineer** passionate about building elegant, efficient solutions to real-world problems through code. ✨
+
+---
 
 ### **💜 Current Role & Community**
 
-I work as a **Software Engineer** and am constantly seeking new challenges and learning opportunities. 🚀  
-Outside of my professional work, I am deeply rooted in the gaming community:
+I currently work as a **Software Engineer**, always seeking new challenges and opportunities to learn and grow. 🚀  
+Beyond my professional work, I’m deeply involved in the gaming community:
 
-* **Developer** at the **Endzone Clan Family** 🎮  
-* **Clan Co-Leader** at the **Endzone Clan Family** 👑
+- **Developer** at the **Endzone Clan Family** 🎮  
+- **Clan Co-Leader** at the **Endzone Clan Family** 👑  
 
-### **🛠️ Tech Stack | Languages I Master**
+---
 
-My experience spans various programming paradigms, with a focus on robust backend systems and diverse scripting languages.  
-| Category | Languages & Technologies |  
-| Primary Backend Languages | Java, C\#, PHP, Go |  
-| Web & Scripting | JavaScript (TS), Python, Lua |  
-| Other & Legacy | VBA |  
-| Frontend & Markup | HTML, CSS |
+### **🛠️ Tech Stack**
 
-### **🌱 What I'm Currently Learning**
+My experience spans multiple programming paradigms, with a focus on backend systems and scripting languages.
 
-I am currently diving deep (just for fun\!) into **Ruby**. I love exploring the different design philosophies of programming languages. 📚
+| Category | Languages & Technologies |
+|-----------|--------------------------|
+| **Primary Backend** | Java, C#, PHP, Go |
+| **Web & Scripting** | JavaScript (TypeScript), Python, Lua |
+| **Other & Legacy** | VBA |
+| **Frontend & Markup** | HTML, CSS |
 
-### **⚙️ Tools & System Knowledge**
+---
 
-Beyond coding, I use these key tools daily for an efficient workflow:
+### **🌱 Currently Learning**
 
-* **Version Control:** Git  
-* **Operating Systems:** Linux (Usage and Administration)
+I’m currently exploring **Ruby**, just for fun! I enjoy studying how different languages approach problem-solving and design philosophy. 📚
 
-### **💬 Let's Connect**
+---
 
-You can find me here on GitHub, where I work on my projects. Don't hesitate to reach out if you're interested in collaboration or just want to talk about technology or gaming\! ✉️
+### **⚙️ Tools & Systems**
+
+To keep my workflow efficient and organized, I use:
+
+- **Version Control:** Git  
+- **Operating Systems:** Linux (Usage & Administration)
+
+---
+
+### **💬 Let’s Connect**
+
+You can find me right here on **GitHub**, where I share my projects and experiments.  
+Feel free to reach out if you’d like to **collaborate**, discuss **software development**, or just chat about **technology or gaming**! ✉️
