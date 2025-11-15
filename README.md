@@ -10,7 +10,7 @@ I currently work as a **Software Engineer**, always seeking new challenges and o
 Beyond my professional work, I’m deeply involved in the gaming community:
 
 - **Developer** at the **Endzone Clan Family** 🎮  
-- **Clan Co-Leader** at the **Endzone Clan Family** 👑  
+- **Clan Leader** at the **Endzone Clan Family** 👑  
 
 ---
 
