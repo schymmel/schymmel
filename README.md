@@ -7,10 +7,11 @@ I’m a **20-year-old Software Engineer** passionate about building elegant, eff
 ### **💜 Current Role & Community**
 
 I currently work as a **Software Engineer**, always seeking new challenges and opportunities to learn and grow. 🚀  
-Beyond my professional work, I’m deeply involved in the gaming community:
+Beyond my professional work, I’m deeply involved in the gaming community, trying to get involved in the Nintendo DS Homebrew scene:
 
-- **Developer** at the **Endzone Clan Family** 🎮  
-- **Founder and Developer** of **Lona-Development** 👑  
+- **Main Developer** of **Hymmels Save Bridge**, Nintendo DS ROM and Cartridge Save Manager with support for TWiLightMenu++'s Save Slots Feature.
+- **Developer** at the **Endzone Clan Family**, one of the biggest Clash of Clans Clan Families 🎮  
+- **Founder and Developer** of **Lona-Development**, my personal hobby-project playground 👑  
 
 ---
 
@@ -20,7 +21,7 @@ My experience spans multiple programming paradigms, with a focus on backend syst
 
 | Category | Languages & Technologies |
 |-----------|--------------------------|
-| **Primary Backend** | Java, JavaScript (TypeScript), Python, Prisma, C#, PHP, Go |
+| **Primary Backend** | Java, JavaScript (TypeScript), C/C++, Python, Prisma, C#, PHP, Go |
 | **Web & Scripting** | JavaScript (TypeScript), PHP, Python, Lua |
 | **Frontend & Markup** | HTML, CSS, Tailwind.css, |
 
@@ -28,7 +29,7 @@ My experience spans multiple programming paradigms, with a focus on backend syst
 
 ### **🌱 Currently Learning**
 
-I’m currently exploring **Ruby**, just for fun! I enjoy studying how different languages approach problem-solving and design philosophy. 📚
+I’m currently exploring **C/C++**, just for fun! I enjoy studying how different languages approach problem-solving and design philosophy. 📚
 
 ---
 
