@@ -9,7 +9,7 @@ I’m a **20-year-old Software Engineer** passionate about building elegant, eff
 I currently work as a **Software Engineer**, always seeking new challenges and opportunities to learn and grow. 🚀  
 Beyond my professional work, I’m deeply involved in the gaming community, trying to get involved in the Nintendo DS Homebrew scene:
 
-- **Main Developer** of **Hymmels Save Bridge**, Nintendo DS ROM and Cartridge Save Manager with support for TWiLightMenu++'s Save Slots Feature.
+- **Main Developer** of **Snapshot**, Nintendo DS ROM and Cartridge Save Manager with support for TWiLightMenu++'s Save Slots Feature.
 - **Developer** at the **Endzone Clan Family**, one of the biggest Clash of Clans Clan Families 🎮  
 - **Founder and Developer** of **Lona-Development**, my personal hobby-project playground 👑  
 
