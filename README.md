@@ -10,8 +10,8 @@ I currently work as a **Software Engineer**, always seeking new challenges and o
 Beyond my professional work, I’m deeply involved in the gaming community, trying to get involved in the Nintendo DS Homebrew scene:
 
 - **Main Developer** of **Snapshot**, Nintendo DS ROM and Cartridge Save Manager with support for TWiLightMenu++'s Save Slots Feature.
-- **Developer** at the **Endzone Clan Family**, one of the biggest Clash of Clans Clan Families 🎮  
-- **Founder and Developer** of **Lona-Development**, my personal hobby-project playground 👑  
+- **Developer** at the **Endzone Clan Family**, one of the biggest Clash of Clans Clan Families, after quitting Clash of Clans and giving up my position as a Clan-Leader, I only maintain already existing projects here. 🎮  
+- **Founder and Main-Developer** of **Lona-Development**, my personal hobby-project playground, here I built LonaDB to learn more about Databases. 👑  
 
 ---
 
